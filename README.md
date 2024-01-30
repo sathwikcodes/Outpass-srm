@@ -41,7 +41,8 @@ flutter pub get
 
 ## Screenshots
 
-![Screenshot](https://github.com/sathwikcodes/chat_app/blob/main/Screenshot%20(35).png)
+![Screenshot](https://github.com/sathwikcodes/Outpass-srm/blob/main/Screenshot%20(36).png)
+![Screenshot](https://github.com/sathwikcodes/Outpass-srm/blob/main/Screenshot%20(37).png)
 
 ## Contributing
 
